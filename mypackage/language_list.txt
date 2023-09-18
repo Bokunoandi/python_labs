@@ -1,0 +1,107 @@
+Code: af, Language: afrikaans, Translation: Hallo
+Code: sq, Language: albanian, Translation: Përshëndetje
+Code: am, Language: amharic, Translation: ሀሎ
+Code: ar, Language: arabic, Translation: مرحبًا
+Code: hy, Language: armenian, Translation: Բարեւ
+Code: az, Language: azerbaijani, Translation: Salam
+Code: eu, Language: basque, Translation: Agur
+Code: be, Language: belarusian, Translation: добры дзень
+Code: bn, Language: bengali, Translation: হ্যালো
+Code: bs, Language: bosnian, Translation: zdravo
+Code: bg, Language: bulgarian, Translation: Здравейте
+Code: ca, Language: catalan, Translation: Hola
+Code: ceb, Language: cebuano, Translation: Timbaya
+Code: ny, Language: chichewa, Translation: Moni
+Code: zh-cn, Language: chinese (simplified), Translation: 你好
+Code: zh-tw, Language: chinese (traditional), Translation: 你好
+Code: co, Language: corsican, Translation: Bonghjornu
+Code: hr, Language: croatian, Translation: zdravo
+Code: cs, Language: czech, Translation: Ahoj
+Code: da, Language: danish, Translation: Hej
+Code: nl, Language: dutch, Translation: Hallo
+Code: en, Language: english, Translation: Hello
+Code: eo, Language: esperanto, Translation: Saluton
+Code: et, Language: estonian, Translation: Tere
+Code: tl, Language: filipino, Translation: Kamusta
+Code: fi, Language: finnish, Translation: Hei
+Code: fr, Language: french, Translation: Bonjour
+Code: fy, Language: frisian, Translation: Hallo
+Code: gl, Language: galician, Translation: Ola
+Code: ka, Language: georgian, Translation: გამარჯობა
+Code: de, Language: german, Translation: Hallo
+Code: el, Language: greek, Translation: Γειά σου
+Code: gu, Language: gujarati, Translation: નમસ્તે
+Code: ht, Language: haitian creole, Translation: Alo
+Code: ha, Language: hausa, Translation: Sannu
+Code: haw, Language: hawaiian, Translation: Aloha
+Code: iw, Language: hebrew, Translation: שלום
+Code: he, Language: hebrew, Translation: שלום
+Code: hi, Language: hindi, Translation: नमस्ते
+Code: hmn, Language: hmong, Translation: Nyob zoo
+Code: hu, Language: hungarian, Translation: Helló
+Code: is, Language: icelandic, Translation: Halló
+Code: ig, Language: igbo, Translation: Nnọọ
+Code: id, Language: indonesian, Translation: Halo
+Code: ga, Language: irish, Translation: Dia dhuit
+Code: it, Language: italian, Translation: Ciao
+Code: ja, Language: japanese, Translation: こんにちは
+Code: jw, Language: javanese, Translation: Hello
+Code: kn, Language: kannada, Translation: ನಮಸ್ಕಾರ
+Code: kk, Language: kazakh, Translation: Сәлеметсіз бе
+Code: km, Language: khmer, Translation: ចមរាបសយរ
+Code: ko, Language: korean, Translation: 안녕하세요
+Code: ku, Language: kurdish (kurmanji), Translation: Slav
+Code: ky, Language: kyrgyz, Translation: Салам
+Code: lo, Language: lao, Translation: ສະບາຍດີ
+Code: la, Language: latin, Translation: Salve
+Code: lv, Language: latvian, Translation: Sveiki
+Code: lt, Language: lithuanian, Translation: Sveiki
+Code: lb, Language: luxembourgish, Translation: Hallo
+Code: mk, Language: macedonian, Translation: Здраво
+Code: mg, Language: malagasy, Translation: Salama
+Code: ms, Language: malay, Translation: Helo
+Code: ml, Language: malayalam, Translation: ഹലോ
+Code: mt, Language: maltese, Translation: Bongu
+Code: mi, Language: maori, Translation: Ora
+Code: mr, Language: marathi, Translation: नमस्कार
+Code: mn, Language: mongolian, Translation: Сайн уу
+Code: my, Language: myanmar (burmese), Translation: မင်္ဂလာပါ
+Code: ne, Language: nepali, Translation: अभिवादन
+Code: no, Language: norwegian, Translation: Hallo
+Code: or, Language: odia, Translation: ନମସ୍କାର
+Code: ps, Language: pashto, Translation: سلام
+Code: fa, Language: persian, Translation: سلام
+Code: pl, Language: polish, Translation: Cześć
+Code: pt, Language: portuguese, Translation: Olá
+Code: pa, Language: punjabi, Translation: ਸਤ ਸ੍ਰੀ ਅਕਾਲ
+Code: ro, Language: romanian, Translation: Buna ziua
+Code: ru, Language: russian, Translation: Привет
+Code: sm, Language: samoan, Translation: Talofa
+Code: gd, Language: scots gaelic, Translation: Halò
+Code: sr, Language: serbian, Translation: Здраво
+Code: st, Language: sesotho, Translation: Lumela
+Code: sn, Language: shona, Translation: Mhoro
+Code: sd, Language: sindhi, Translation: سلام
+Code: si, Language: sinhala, Translation: ආයුබෝවන්
+Code: sk, Language: slovak, Translation: Ahoj
+Code: sl, Language: slovenian, Translation: zdravo
+Code: so, Language: somali, Translation: Ma nabad baa
+Code: es, Language: spanish, Translation: Hola
+Code: su, Language: sundanese, Translation: Halo
+Code: sw, Language: swahili, Translation: Hello
+Code: sv, Language: swedish, Translation: Hallå
+Code: tg, Language: tajik, Translation: Салом
+Code: ta, Language: tamil, Translation: வணக்கம்
+Code: te, Language: telugu, Translation: హలో
+Code: th, Language: thai, Translation: สวัสดี
+Code: tr, Language: turkish, Translation: Merhaba
+Code: uk, Language: ukrainian, Translation: Привіт
+Code: ur, Language: urdu, Translation: ہیلو
+Code: ug, Language: uyghur, Translation: ياخشىمۇسىز
+Code: uz, Language: uzbek, Translation: Salom
+Code: vi, Language: vietnamese, Translation: Xin chào
+Code: cy, Language: welsh, Translation: Helo
+Code: xh, Language: xhosa, Translation: Mholo
+Code: yi, Language: yiddish, Translation: אַ גוטן
+Code: yo, Language: yoruba, Translation: Pẹlẹ o
+Code: zu, Language: zulu, Translation: Sawubona
