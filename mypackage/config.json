@@ -1,0 +1,8 @@
+{
+    "text_file": "input.txt",
+    "target_language": "en",
+    "output_destination": "file",
+    "character_count": true,
+    "word_count": true,
+    "sentence_count": true
+}
